@@ -4,7 +4,7 @@ Source code for the COLING'22 paper: [Improving Cross-lingual Fact Checking with
 
 
 <p align="center"><img src="framework_overview.png"   style="margin:auto"></p>
-We propose to fact checking framework augmented with a cross-lingual transfer component for zero-shot cross-lingual fact checking, as depicted in the above figure.
+We propose a fact checking framework augmented with cross-lingual retrieval for zero-shot cross-lingual fact checking, as depicted in the above figure.
 
 ## Dependencies
 All required packages are listed in `requirements.txt`.
