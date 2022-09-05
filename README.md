@@ -1,6 +1,6 @@
 # CONCRETE
 
-Source code for the COLING'22 paper: [Improving Cross-lingual Fact Checking with Cross-lingual Retrieval]([abc](https://blender.cs.illinois.edu/paper/crosslingualfactchecking2022.pdf)).
+Source code for the COLING'22 paper: [CONCRETE: Improving Cross-lingual Fact Checking with Cross-lingual Retrieval]([abc](https://blender.cs.illinois.edu/paper/crosslingualfactchecking2022.pdf)).
 
 
 <p align="center"><img src="framework_overview.png"   style="margin:auto"></p>
