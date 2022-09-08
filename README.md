@@ -1,5 +1,8 @@
 # CONCRETE
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/concrete-improving-cross-lingual-fact/zero-shot-cross-lingual-fact-checking-on-x)](https://paperswithcode.com/sota/zero-shot-cross-lingual-fact-checking-on-x?p=concrete-improving-cross-lingual-fact)
+
+
 Source code for the COLING'22 paper: [CONCRETE: Improving Cross-lingual Fact Checking with Cross-lingual Retrieval]([abc](https://blender.cs.illinois.edu/paper/crosslingualfactchecking2022.pdf)).
 
 
