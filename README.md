@@ -88,8 +88,9 @@ python test.py --checkpoint_path PATH_TO_CHECKPOINT --test_path ../data/x-fact/z
 
 Here, `PATH_TO_CHECKPOINT` is the path to the checkpoint you have just trained, or you can use the weights we provided above.
 
+```bibtex
 @inproceedings{huang-etal-2022-concrete,
-    title = "{CONCRETE}: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval",
+    title = "CONCRETE: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval",
     author = "Huang, Kung-Hsiang  and
       Zhai, ChengXiang  and
       Ji, Heng",
@@ -101,3 +102,4 @@ Here, `PATH_TO_CHECKPOINT` is the path to the checkpoint you have just trained, 
     url = "https://aclanthology.org/2022.coling-1.86",
     pages = "1024--1035",
 }
+```
