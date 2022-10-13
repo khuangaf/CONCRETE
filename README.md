@@ -3,7 +3,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/concrete-improving-cross-lingual-fact/zero-shot-cross-lingual-fact-checking-on-x)](https://paperswithcode.com/sota/zero-shot-cross-lingual-fact-checking-on-x?p=concrete-improving-cross-lingual-fact)
 
 
-Source code for the COLING'22 paper: [CONCRETE: Improving Cross-lingual Fact Checking with Cross-lingual Retrieval]([abc](https://blender.cs.illinois.edu/paper/crosslingualfactchecking2022.pdf)).
+Source code for the COLING'22 paper: [CONCRETE: Improving Cross-lingual Fact Checking with Cross-lingual Retrieval](https://aclanthology.org/2022.coling-1.86/).
 
 
 <p align="center"><img src="framework_overview.png"   style="margin:auto"></p>
@@ -87,3 +87,17 @@ python test.py --checkpoint_path PATH_TO_CHECKPOINT --test_path ../data/x-fact/z
 ```
 
 Here, `PATH_TO_CHECKPOINT` is the path to the checkpoint you have just trained, or you can use the weights we provided above.
+
+@inproceedings{huang-etal-2022-concrete,
+    title = "{CONCRETE}: Improving Cross-lingual Fact-checking with Cross-lingual Retrieval",
+    author = "Huang, Kung-Hsiang  and
+      Zhai, ChengXiang  and
+      Ji, Heng",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.86",
+    pages = "1024--1035",
+}
